@@ -275,6 +275,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 4294282774122949909}
+  - component: {fileID: -6147068597090998054}
   m_Layer: 0
   m_Name: PlaySpace
   m_TagString: Untagged
@@ -297,6 +298,18 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &-6147068597090998054
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4294282774122949908}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 67cb29d804da468468198d154a747b26, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &4294282774538009572
 GameObject:
   m_ObjectHideFlags: 0
